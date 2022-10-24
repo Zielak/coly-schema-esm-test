@@ -2,8 +2,6 @@ repo only for bug reproduction
 
 ---
 
-```
-npm i
-```
+`npm i`
 
-and inspect files in `./src/` for comments
+and inspect files in `pkgCommonjs/src/` and `pkgModule/src/`for comments
